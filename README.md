@@ -909,12 +909,8 @@ style='font-family:"Courier New"'>&gt;<br>
 <br>
 ## Тестовые примеры<br>
 <br>
-1. </span><span lang=EN-US style='font-family:"Courier New";mso-ansi-language:
-EN-US'>&lt;p align=&quot;center&quot;&gt;&lt;img
-src=&quot;images/test1.png&quot;&gt;&lt;/p&gt;<br>
-2. &lt;p align=&quot;center&quot;&gt;&lt;img
-src=&quot;images/test2.png&quot;&gt;&lt;/p&gt;<br style='mso-special-character:
-line-break'>
+1. <p align="center"><img src="images/test1.png"></p>
+2. <p align="center"><img src="images/test2.png"></p>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
 <![endif]></span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
 
