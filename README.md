@@ -847,7 +847,7 @@ div.WordSection1
 <p class=MsoPlainText style='margin-bottom:12.0pt'><span style='font-family:
 "Courier New"'># Лексический анализатор (сканер)<br>
 <br>
-<p align="center"><img src="images/screen.png"></p>
+<p align="center"><img src="screen.png"></p>
 <br>
 ## Цель<br>
 <br>
