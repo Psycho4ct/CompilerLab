@@ -844,8 +844,7 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoPlainText style='margin-bottom:12.0pt'><span style='font-family:
-"Courier New"'># Лексический анализатор (сканер)<br>
+<br># Лексический анализатор (сканер)<br>
 <br>
 <p align="center"><img src="screen.png"></p>
 <br>
