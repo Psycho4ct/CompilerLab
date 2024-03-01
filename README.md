@@ -909,8 +909,8 @@ style='font-family:"Courier New"'>&gt;<br>
 <br>
 ## Тестовые примеры<br>
 <br>
-1. <p align="center"><img src="images/test1.png"></p>
-2. <p align="center"><img src="images/test2.png"></p>
+1. <p align="center"><img src="test1.png"></p>
+2. <p align="center"><img src="test2.png"></p>
 <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
 <![endif]></span><span style='font-family:"Courier New"'><o:p></o:p></span></p>
 
