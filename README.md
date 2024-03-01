@@ -889,7 +889,7 @@ style='font-family:"Courier New"'>[6] = “123” ;<br>
 <br>
 ## Диаграмма состояний сканера<br>
 <br>
-<p align="center"><img src="diagram.jpg"></p>
+<p align="center"><img src="diagram.png"></p>
 
 <br>
 ## Тестовые примеры<br>
