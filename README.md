@@ -889,23 +889,8 @@ style='font-family:"Courier New"'>[6] = “123” ;<br>
 <br>
 ## Диаграмма состояний сканера<br>
 <br>
-&lt;</span><span lang=EN-US style='font-family:"Courier New";mso-ansi-language:
-EN-US'>p</span><span lang=EN-US style='font-family:"Courier New"'> </span><span
-lang=EN-US style='font-family:"Courier New";mso-ansi-language:EN-US'>align</span><span
-style='font-family:"Courier New"'>=&quot;</span><span lang=EN-US
-style='font-family:"Courier New";mso-ansi-language:EN-US'>center</span><span
-style='font-family:"Courier New"'>&quot;&gt;&lt;</span><span lang=EN-US
-style='font-family:"Courier New";mso-ansi-language:EN-US'>img</span><span
-lang=EN-US style='font-family:"Courier New"'> </span><span lang=EN-US
-style='font-family:"Courier New";mso-ansi-language:EN-US'>src</span><span
-style='font-family:"Courier New"'>=&quot;</span><span lang=EN-US
-style='font-family:"Courier New";mso-ansi-language:EN-US'>images</span><span
-style='font-family:"Courier New"'>/</span><span lang=EN-US style='font-family:
-"Courier New";mso-ansi-language:EN-US'>diagram</span><span style='font-family:
-"Courier New"'>.</span><span lang=EN-US style='font-family:"Courier New";
-mso-ansi-language:EN-US'>png</span><span style='font-family:"Courier New"'>&quot;&gt;&lt;/</span><span
-lang=EN-US style='font-family:"Courier New";mso-ansi-language:EN-US'>p</span><span
-style='font-family:"Courier New"'>&gt;<br>
+<p align="center"><img src="diagram.jpg"></p>
+
 <br>
 ## Тестовые примеры<br>
 <br>
